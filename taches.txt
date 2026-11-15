@@ -1,1 +1,2 @@
 -lire le cahier des charges
+-rediger le plan
